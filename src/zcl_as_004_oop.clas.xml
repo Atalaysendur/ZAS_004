@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_AS_004_OOP</CLSNAME>
+    <LANGU>T</LANGU>
+    <DESCRIPT>Object Oriented Programming Odev</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>MATNR</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Malzeme numarası</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>WERKS</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Üretim yeri</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <SCONAME>IV_MATNR</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Malzeme numarası</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>FETCH_DATA</CMPNAME>
+     <SCONAME>RT_TABLE</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>OOP</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
